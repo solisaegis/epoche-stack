@@ -38,7 +38,7 @@ https://archive.org/details/epoche-stack-phase-3-mechanism-catalog-descriptive-n
 
 This repository includes the official integrity record for the EPOCHE Stack:
 
-**EPOCHE Stack — Hash Manifest (v1.0)**
+**EPOCHE Stack — Hash Manifest (v1).pdf**
 
 SHA-256 (Manifest PDF):  
 2bc0abc22af251d84ace905e558bc50aee08a2fa4694efcd2fa79ab1019af09f  
